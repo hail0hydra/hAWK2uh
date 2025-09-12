@@ -2,6 +2,11 @@
 
 <br>
 
+<img src="./awk.png" alt="awk" width=250 />
+
+<br>
+<br>
+
 - although most of us make our way through text processing (and I am talkign about UNIX systems) just by using tools like:
 
 1. grep
