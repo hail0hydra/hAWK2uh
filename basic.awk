@@ -13,3 +13,5 @@
 # {print x,$x}
 # END
 
+
+{print "user: \t",$3,"\t","file:",$9}
