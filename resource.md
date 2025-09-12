@@ -1,0 +1,23 @@
+total 0
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 -rw-r--r--
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 1
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 12
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 12467
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 12:19
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 12:21
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 12:33
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 12:55
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 12:56
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 155
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 271
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 31521
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 49
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 60
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 Sep
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 basic.awk
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 one
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 redbull.httpx
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 redbull.txt
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 resource.md
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 s1ck
+-rw-r--r-- 1 s1ck s1ck 0 Sep 12 12:57 total
