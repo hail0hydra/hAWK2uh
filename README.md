@@ -44,4 +44,4 @@ awk -f ',' '$3 <= 40 {print $2, "\t", $5}' # only selecting data where age <= 40
 
 ## Tracker
 
-- [here](https://www.grymoire.com/Unix/Awk.html#uh-13)
+- [here](https://www.grymoire.com/Unix/Awk.html#uh-14)
